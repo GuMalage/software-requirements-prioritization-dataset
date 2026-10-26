@@ -1,0 +1,1 @@
+Os dados originais pertencem ao dataset TAWOS e aos projetos open-source de onde foram minerados. Este dataset derivado é disponibilizado sob a licença Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
