@@ -168,22 +168,10 @@ O dataset resultante conta com **104.710 requisitos** consolidados. A distribui�
  |
 | **44** | Atlassian Jira Cloud | 779 | 1.498 | 6.814 | 9.091
 
- |
-
----
-
-## 📁 Estrutura do Repositório
+ 
 
 
-│── Projetos Individuais
-│   ├── projetos.csv
-│── dataset_Priorizacao.csv     
-├── README.md
-└── LICENSE
-
-```
-
-### Esquema dos Arquivos CSV
+Esquema dos Arquivos CSV
 
 Cada arquivo CSV possui os seguintes campos:
 
@@ -196,4 +184,4 @@ Cada arquivo CSV possui os seguintes campos:
 
 ## 📜 Licença
 
-Os dados originais pertencem ao dataset TAWOS e aos projetos *open-source* de onde foram minerados. Este dataset derivado é disponibilizado sob a licença **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Os dados originais pertencem ao dataset TAWOS e aos projetos *open-source* de onde foram minerados. Este dataset derivado é disponibilizado sob a licença Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
